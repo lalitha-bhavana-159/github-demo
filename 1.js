@@ -1,3 +1,4 @@
 function test(){
-    console.log(test);
+    const a=5
+    console.log(a);
 }
